@@ -3,7 +3,7 @@ After you install binaries and vex.cdt
 follow this command
 mkdir CONTRACTS_DIR
 cd CONTRACTS_DIR
-git clone https://github.com/pindapanda/vex.token/
+git clone https://github.com/YudaAdiPratama/vex.token/
 back dir ../
 
 ./cleos wallet unlock --password PWDKASJFJSFLSAFJLASJF.... (change with your password)
