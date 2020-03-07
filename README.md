@@ -1,2 +1,0 @@
-# vex.token
-vex.token
